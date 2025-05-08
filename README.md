@@ -1,6 +1,6 @@
 # Light & Dark Mode Toggle 🌗
 
-A clean and responsive toggle button that switches your website's appearance between Light and Dark modes — built with HTML, CSS, and JavaScript.
+A clean and responsive toggle button that switches your website's appearance between Light and Dark modes — built with HTML, CSS.
 
 ## 🔍 Preview
 
