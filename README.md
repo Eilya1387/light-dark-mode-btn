@@ -38,10 +38,10 @@ Light-Dark-Mode-Toggle/
 git clone https://github.com/your-username/light-dark-mode-btn.git
 
 # 2. Navigate into the folder
-cd Light-Dark-Mode-Toggle
+
 
 # 3. Open the project in VS Code (optional)
-code .
+
 
 💡 Tip: If you're using GitHub Desktop or VS Code Git integration, you can also clone with just a few clicks!
 
