@@ -4,8 +4,8 @@ A clean and responsive toggle button that switches your website's appearance bet
 
 ## 🔍 Preview
 
-👉 [Live Demo]([https://eilya1387.github.io/Light-Dark-Mode-Toggle/](https://eilya1387.github.io/light-dark-mode-btn/))  
-*(Replace this link with your actual GitHub Pages link if needed)*
+👉 [Live Demo](https://eilya1387.github.io/light-dark-mode-btn/)  
+
 
 ## ✨ Features
 
